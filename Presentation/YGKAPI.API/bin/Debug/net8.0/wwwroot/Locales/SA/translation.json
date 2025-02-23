@@ -1,0 +1,22 @@
+{
+  "email.mailSendException.message": "نحن حاليًا نواجه مشكلة مع خادم البريد أثناء إرسال البريد الإلكتروني.",
+  "email.targetNotFoundException.message": "عنوان البريد الإلكتروني المستهدف غير موجود",
+
+
+  "user.auth.email.emailConfirmException.message": "لم يتم التحقق من عنوان البريد الإلكتروني للمستخدم. يمكنك التحقق من حسابك باستخدام الرابط المرسل عبر البريد الإلكتروني.",
+  "user.auth.authenticationErrorException.message": "حدث خطأ غير متوقع أثناء تسجيل الدخول. يرجى التحقق من كلمة المرور",
+  "user.auth.notFoundUserException.message": "المستخدم غير موجود.",
+
+  "user.create.passwordMatchException.message": "كلمات المرور المدخلة لا تتطابق. يجب أن تكون كلا كلمتي المرور متطابقتين.",
+  "user.create.userCreateException.message": "يجب أن تتكون كلمات المرور من 6 أحرف على الأقل. يجب أن تحتوي كلمات المرور على حرف واحد غير أبجدي رقمي على الأقل. يجب أن تحتوي كلمات المرور على حرف صغير واحد على الأقل ('a'-'z'). يجب أن تحتوي كلمات المرور على حرف كبير واحد على الأقل ('A'-'Z').",
+
+  "method.notImplementedException.message": "هذه الطريقة لا تزال قيد الإنشاء",
+
+  "ftp.fileNotFoundException.message": "لم يتم العثور على الملف.",
+
+  "clientEndpoint.notFoundException.message": "لم يتم العثور على نقطة النهاية",
+
+  "database.notFoundException.message": "Uzak sunucuya erişim sağlanamadı.",
+  "database.connectionStringParseException.message": "Bağlantı bilgisi parçalanamadı, doğru formatta değil.",
+  "database.emptyTableException.message": "Veri tabanındaki tablolardan birinde sütun bilgisine ulaşlılamıyor."
+}

@@ -1,0 +1,22 @@
+{
+  "email.mailSendException.message": "Actualmente estamos experimentando un problema con el servidor de correo al enviar el correo electrónico.",
+  "email.targetNotFoundException.message": "Dirección de correo electrónico de destino no encontrada",
+
+
+  "user.auth.email.emailConfirmException.message": "La dirección de correo electrónico del usuario no está verificada. Puede verificar su cuenta con el enlace enviado por correo electrónico.",
+  "user.auth.authenticationErrorException.message": "Ocurrió un error inesperado durante el inicio de sesión. Por favor revisa la contraseña",
+  "user.auth.notFoundUserException.message": "Usuario no encontrado.",
+
+  "user.create.passwordMatchException.message": "Las contraseñas ingresadas no coinciden. Ambas contraseñas deben ser iguales.",
+  "user.create.userCreateException.message": "Las contraseñas deben tener al menos 6 caracteres. Las contraseñas deben tener al menos un carácter no alfanumérico. Las contraseñas deben tener al menos una minúscula ('a'-'z'). Las contraseñas deben tener al menos una mayúscula ('A'-'Z').",
+
+  "method.notImplementedException.message": "Este método aún está en construcción.",
+
+  "ftp.fileNotFoundException.message": "Archivo no encontrado.",
+
+  "clientEndpoint.notFoundException.message": "Punto final no encontrado",
+
+  "database.notFoundException.message": "Uzak sunucuya erişim sağlanamadı.",
+  "database.connectionStringParseException.message": "Bağlantı bilgisi parçalanamadı, doğru formatta değil.",
+  "database.emptyTableException.message": "Veri tabanındaki tablolardan birinde sütun bilgisine ulaşlılamıyor."
+}

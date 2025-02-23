@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\YGK\YGKAPI\Presentation\YGKAPI.API\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-10-29T19:14:26.0696059Z;True|2024-10-29T22:11:14.8135495+03:00;True|2024-10-29T22:09:48.4359340+03:00;True|2024-10-29T22:09:40.1801078+03:00;True|2024-10-29T22:09:21.1233708+03:00;True|2024-10-29T21:27:44.6113583+03:00;True|2024-10-29T21:24:48.1449156+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

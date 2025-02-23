@@ -1,0 +1,58 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>true</InvariantGlobalization>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\Locales\EN\translation.json" />
+    <Content Remove="wwwroot\Locales\ES\translation.json" />
+    <Content Remove="wwwroot\Locales\SA\translation.json" />
+    <Content Remove="wwwroot\Locales\TR\translation.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Locales\EN\translation.json" />
+    <None Include="wwwroot\Locales\ES\translation.json" />
+    <None Include="wwwroot\Locales\SA\translation.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="wwwroot\Locales\TR\translation.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Serilog" Version="4.1.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="8.0.3" />
+    <PackageReference Include="Serilog.Enrichers.Environment" Version="3.0.1" />
+    <PackageReference Include="Serilog.Settings.Configuration" Version="8.0.4" />
+    <PackageReference Include="Serilog.Sinks.Http" Version="9.0.0" />
+    <PackageReference Include="Serilog.Sinks.Loggly" Version="5.3.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\YGKAPI.Application\YGKAPI.Application.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\YGKAPI.Infrastructure\YGKAPI.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\YGKAPI.Persistence\YGKAPI.Persistence.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+	  <None Update="wwwroot\Locales\EN\translation.json">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Update="wwwroot\Locales\ES\translation.json">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Update="wwwroot\Locales\TR\translation.json">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Update="wwwroot\Locales\SA\translation.json">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+  </ItemGroup>
+
+
+</Project>

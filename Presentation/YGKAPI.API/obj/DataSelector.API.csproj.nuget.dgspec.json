@@ -1,0 +1,392 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gokha\\Desktop\\DataSelector\\Presentation\\YGKAPI.API\\DataSelector.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gokha\\Desktop\\DataSelector\\Core\\YGKAPI.Application\\YGKAPI.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gokha\\Desktop\\DataSelector\\Core\\YGKAPI.Application\\YGKAPI.Application.csproj",
+        "projectName": "YGKAPI.Application",
+        "projectPath": "C:\\Users\\gokha\\Desktop\\DataSelector\\Core\\YGKAPI.Application\\YGKAPI.Application.csproj",
+        "packagesPath": "C:\\Users\\gokha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gokha\\Desktop\\DataSelector\\Core\\YGKAPI.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gokha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\gokha\\Desktop\\DataSelector\\Core\\YGKAPI.Domain\\YGKAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\gokha\\Desktop\\DataSelector\\Core\\YGKAPI.Domain\\YGKAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gokha\\Desktop\\DataSelector\\Core\\YGKAPI.Domain\\YGKAPI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gokha\\Desktop\\DataSelector\\Core\\YGKAPI.Domain\\YGKAPI.Domain.csproj",
+        "projectName": "YGKAPI.Domain",
+        "projectPath": "C:\\Users\\gokha\\Desktop\\DataSelector\\Core\\YGKAPI.Domain\\YGKAPI.Domain.csproj",
+        "packagesPath": "C:\\Users\\gokha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gokha\\Desktop\\DataSelector\\Core\\YGKAPI.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gokha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.1.39, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gokha\\Desktop\\DataSelector\\Infrastructure\\YGKAPI.Infrastructure\\YGKAPI.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gokha\\Desktop\\DataSelector\\Infrastructure\\YGKAPI.Infrastructure\\YGKAPI.Infrastructure.csproj",
+        "projectName": "YGKAPI.Infrastructure",
+        "projectPath": "C:\\Users\\gokha\\Desktop\\DataSelector\\Infrastructure\\YGKAPI.Infrastructure\\YGKAPI.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\gokha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gokha\\Desktop\\DataSelector\\Infrastructure\\YGKAPI.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gokha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\gokha\\Desktop\\DataSelector\\Core\\YGKAPI.Application\\YGKAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\gokha\\Desktop\\DataSelector\\Core\\YGKAPI.Application\\YGKAPI.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.22.2, )"
+            },
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.68.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gokha\\Desktop\\DataSelector\\Infrastructure\\YGKAPI.Persistence\\YGKAPI.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gokha\\Desktop\\DataSelector\\Infrastructure\\YGKAPI.Persistence\\YGKAPI.Persistence.csproj",
+        "projectName": "YGKAPI.Persistence",
+        "projectPath": "C:\\Users\\gokha\\Desktop\\DataSelector\\Infrastructure\\YGKAPI.Persistence\\YGKAPI.Persistence.csproj",
+        "packagesPath": "C:\\Users\\gokha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gokha\\Desktop\\DataSelector\\Infrastructure\\YGKAPI.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gokha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\gokha\\Desktop\\DataSelector\\Core\\YGKAPI.Application\\YGKAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\gokha\\Desktop\\DataSelector\\Core\\YGKAPI.Application\\YGKAPI.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gokha\\Desktop\\DataSelector\\Presentation\\YGKAPI.API\\DataSelector.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gokha\\Desktop\\DataSelector\\Presentation\\YGKAPI.API\\DataSelector.API.csproj",
+        "projectName": "DataSelector.API",
+        "projectPath": "C:\\Users\\gokha\\Desktop\\DataSelector\\Presentation\\YGKAPI.API\\DataSelector.API.csproj",
+        "packagesPath": "C:\\Users\\gokha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gokha\\Desktop\\DataSelector\\Presentation\\YGKAPI.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gokha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\gokha\\Desktop\\DataSelector\\Core\\YGKAPI.Application\\YGKAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\gokha\\Desktop\\DataSelector\\Core\\YGKAPI.Application\\YGKAPI.Application.csproj"
+              },
+              "C:\\Users\\gokha\\Desktop\\DataSelector\\Infrastructure\\YGKAPI.Infrastructure\\YGKAPI.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\gokha\\Desktop\\DataSelector\\Infrastructure\\YGKAPI.Infrastructure\\YGKAPI.Infrastructure.csproj"
+              },
+              "C:\\Users\\gokha\\Desktop\\DataSelector\\Infrastructure\\YGKAPI.Persistence\\YGKAPI.Persistence.csproj": {
+                "projectPath": "C:\\Users\\gokha\\Desktop\\DataSelector\\Infrastructure\\YGKAPI.Persistence\\YGKAPI.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Serilog.Enrichers.Environment": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Serilog.Sinks.Http": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Serilog.Sinks.Loggly": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

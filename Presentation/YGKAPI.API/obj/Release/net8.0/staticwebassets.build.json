@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "pCi31D8vuRUkoLizmY3/3eXO0B2HXHd4jAyHYJXkEFk=",
+  "Source": "YGKAPI.API",
+  "BasePath": "_content/YGKAPI.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "YGKAPI.API\\wwwroot",
+      "Source": "YGKAPI.API",
+      "ContentRoot": "E:\\YGK\\YGKAPI\\Presentation\\YGKAPI.API\\wwwroot\\",
+      "BasePath": "_content/YGKAPI.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\YGK\\YGKAPI\\Presentation\\YGKAPI.API\\wwwroot\\PDF\\GOKHAN_USTUNYER_ENG_CUR_CV.pdf",
+      "SourceId": "YGKAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\YGK\\YGKAPI\\Presentation\\YGKAPI.API\\wwwroot\\",
+      "BasePath": "_content/YGKAPI.API",
+      "RelativePath": "PDF/GOKHAN_USTUNYER_ENG_CUR_CV.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\PDF\\GOKHAN_USTUNYER_ENG_CUR_CV.pdf"
+    }
+  ]
+}

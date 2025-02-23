@@ -1,0 +1,22 @@
+{
+  "email.mailSendException.message": "Şu an mail gönderme işlemince mail sunucusundan kaynaklı bir problem ile karşılaşıyoruz.",
+  "email.targetNotFoundException.message": "Hedef mail adresi bulunamadı",
+
+
+  "user.auth.email.emailConfirmException.message": "Kullanıcının e-posta adresi doğrulanmamış. E-Posta ile gelen link ile hesabınızı doğruyalabilirsiniz.",
+  "user.auth.authenticationErrorException.message": "Giriş işlemi sırasında beklenmedik bir hata ile karşılaşıldı. Lütfen şifrenizi kontrol edin",
+  "user.auth.notFoundUserException.message": "Kullanıcı Bulunamadı.",
+
+  "user.create.passwordMatchException.message": "Girilen parolalar eşleşmiyor. İki parola da aynı olmalı",
+  "user.create.userCreateException.message": "Şifreler en az 6 karakter olmalıdır. Parolalarda en az bir alfanümerik olmayan karakter bulunmalıdır. Şifrelerde en az bir küçük harf ('a'-'z') bulunmalıdır. Şifrelerde en az bir büyük harf ('A'-'Z') bulunmalıdır.",
+
+  "method.notImplementedException.message": "Bu işlev hala yapım aşamasında.",
+
+  "ftp.fileNotFoundException.message": "Dosya bulunamadı.",
+
+  "clientEndpoint.notFoundException.message": "Endpoint Bulunamadı.",
+
+  "database.notFoundException.message": "Uzak sunucuya erişim sağlanamadı.",
+  "database.connectionStringParseException.message": "Bağlantı bilgisi parçalanamadı, doğru formatta değil.",
+  "database.emptyTableException.message": "Veri tabanındaki tablolardan birinde sütun bilgisine ulaşlılamıyor."
+}

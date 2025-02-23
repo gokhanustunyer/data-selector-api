@@ -1,0 +1,16 @@
+E:\YGK\YGKAPI\Core\YGKAPI.Application\bin\Release\net8.0\YGKAPI.Application.deps.json
+E:\YGK\YGKAPI\Core\YGKAPI.Application\bin\Release\net8.0\YGKAPI.Application.dll
+E:\YGK\YGKAPI\Core\YGKAPI.Application\bin\Release\net8.0\YGKAPI.Application.pdb
+E:\YGK\YGKAPI\Core\YGKAPI.Application\bin\Release\net8.0\YGKAPI.Domain.dll
+E:\YGK\YGKAPI\Core\YGKAPI.Application\bin\Release\net8.0\YGKAPI.Domain.pdb
+E:\YGK\YGKAPI\Core\YGKAPI.Application\obj\Release\net8.0\YGKAPI.Application.csproj.AssemblyReference.cache
+E:\YGK\YGKAPI\Core\YGKAPI.Application\obj\Release\net8.0\YGKAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\YGK\YGKAPI\Core\YGKAPI.Application\obj\Release\net8.0\YGKAPI.Application.AssemblyInfoInputs.cache
+E:\YGK\YGKAPI\Core\YGKAPI.Application\obj\Release\net8.0\YGKAPI.Application.AssemblyInfo.cs
+E:\YGK\YGKAPI\Core\YGKAPI.Application\obj\Release\net8.0\YGKAPI.Application.csproj.CoreCompileInputs.cache
+E:\YGK\YGKAPI\Core\YGKAPI.Application\obj\Release\net8.0\YGKAPI.Application.sourcelink.json
+E:\YGK\YGKAPI\Core\YGKAPI.Application\obj\Release\net8.0\YGKAPI.Application.csproj.CopyComplete
+E:\YGK\YGKAPI\Core\YGKAPI.Application\obj\Release\net8.0\YGKAPI.Application.dll
+E:\YGK\YGKAPI\Core\YGKAPI.Application\obj\Release\net8.0\refint\YGKAPI.Application.dll
+E:\YGK\YGKAPI\Core\YGKAPI.Application\obj\Release\net8.0\YGKAPI.Application.pdb
+E:\YGK\YGKAPI\Core\YGKAPI.Application\obj\Release\net8.0\ref\YGKAPI.Application.dll

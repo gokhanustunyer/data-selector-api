@@ -1,0 +1,15 @@
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Application\bin\Debug\net8.0\DataSelector.Application.deps.json
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Application\bin\Debug\net8.0\DataSelector.Application.dll
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Application\bin\Debug\net8.0\DataSelector.Application.pdb
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Application\bin\Debug\net8.0\DataSelector.Domain.dll
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Application\bin\Debug\net8.0\DataSelector.Domain.pdb
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Application\obj\Debug\net8.0\DataSelector.Application.csproj.AssemblyReference.cache
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Application\obj\Debug\net8.0\DataSelector.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Application\obj\Debug\net8.0\DataSelector.Application.AssemblyInfoInputs.cache
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Application\obj\Debug\net8.0\DataSelector.Application.AssemblyInfo.cs
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Application\obj\Debug\net8.0\DataSelector.Application.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Application\obj\Debug\net8.0\DataSelector.Application.csproj.CopyComplete
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Application\obj\Debug\net8.0\DataSelector.Application.dll
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Application\obj\Debug\net8.0\refint\DataSelector.Application.dll
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Application\obj\Debug\net8.0\DataSelector.Application.pdb
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Application\obj\Debug\net8.0\ref\DataSelector.Application.dll

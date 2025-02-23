@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://win6110.site4now.net:21/site1</_PublishTargetUrl>
+    <History>False|2024-10-29T20:48:59.9898327Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>10/27/2024 17:42:48</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>10/29/2024 23:25:07</publishTime>
+    </File>
+    <File Include="Azure.Storage.Common.dll">
+      <publishTime>10/11/2024 02:32:28</publishTime>
+    </File>
+    <File Include="MediatR.Extensions.Microsoft.DependencyInjection.dll">
+      <publishTime>09/30/2022 12:42:50</publishTime>
+    </File>
+    <File Include="Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>10/23/2021 02:47:36</publishTime>
+    </File>
+    <File Include="System.ClientModel.dll">
+      <publishTime>09/17/2024 19:20:22</publishTime>
+    </File>
+    <File Include="System.IO.Hashing.dll">
+      <publishTime>10/23/2021 02:47:54</publishTime>
+    </File>
+    <File Include="System.Memory.Data.dll">
+      <publishTime>10/23/2021 02:47:56</publishTime>
+    </File>
+    <File Include="System.Security.Permissions.dll">
+      <publishTime>05/15/2018 16:29:40</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>10/29/2024 23:48:12</publishTime>
+    </File>
+    <File Include="wwwroot/Locales/EN/translation.json">
+      <publishTime>10/29/2024 21:57:45</publishTime>
+    </File>
+    <File Include="wwwroot/Locales/ES/translation.json">
+      <publishTime>10/29/2024 21:58:02</publishTime>
+    </File>
+    <File Include="wwwroot/Locales/SA/translation.json">
+      <publishTime>10/29/2024 23:47:41</publishTime>
+    </File>
+    <File Include="wwwroot/Locales/TR/translation.json">
+      <publishTime>10/29/2024 21:58:09</publishTime>
+    </File>
+    <File Include="YGKAPI.API.deps.json">
+      <publishTime>10/29/2024 23:48:05</publishTime>
+    </File>
+    <File Include="YGKAPI.API.exe">
+      <publishTime>10/29/2024 23:48:04</publishTime>
+    </File>
+    <File Include="YGKAPI.API.runtimeconfig.json">
+      <publishTime>10/29/2024 21:24:47</publishTime>
+    </File>
+    <File Include="YGKAPI.Application.dll">
+      <publishTime>10/29/2024 22:09:17</publishTime>
+    </File>
+    <File Include="YGKAPI.Application.pdb">
+      <publishTime>10/29/2024 22:09:17</publishTime>
+    </File>
+    <File Include="YGKAPI.Domain.dll">
+      <publishTime>10/29/2024 21:24:45</publishTime>
+    </File>
+    <File Include="YGKAPI.Domain.pdb">
+      <publishTime>10/29/2024 21:24:45</publishTime>
+    </File>
+    <File Include="YGKAPI.Infrastructure.dll">
+      <publishTime>10/29/2024 22:09:19</publishTime>
+    </File>
+    <File Include="YGKAPI.Infrastructure.pdb">
+      <publishTime>10/29/2024 22:09:19</publishTime>
+    </File>
+    <File Include="YGKAPI.Persistence.dll">
+      <publishTime>10/29/2024 23:38:24</publishTime>
+    </File>
+    <File Include="YGKAPI.Persistence.pdb">
+      <publishTime>10/29/2024 23:38:24</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

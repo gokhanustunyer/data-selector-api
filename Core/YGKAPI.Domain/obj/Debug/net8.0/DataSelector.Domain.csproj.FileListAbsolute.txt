@@ -1,0 +1,12 @@
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Domain\bin\Debug\net8.0\DataSelector.Domain.deps.json
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Domain\bin\Debug\net8.0\DataSelector.Domain.dll
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Domain\bin\Debug\net8.0\DataSelector.Domain.pdb
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Domain\obj\Debug\net8.0\DataSelector.Domain.csproj.AssemblyReference.cache
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Domain\obj\Debug\net8.0\DataSelector.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Domain\obj\Debug\net8.0\DataSelector.Domain.AssemblyInfoInputs.cache
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Domain\obj\Debug\net8.0\DataSelector.Domain.AssemblyInfo.cs
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Domain\obj\Debug\net8.0\DataSelector.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Domain\obj\Debug\net8.0\DataSelector.Domain.dll
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Domain\obj\Debug\net8.0\refint\DataSelector.Domain.dll
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Domain\obj\Debug\net8.0\DataSelector.Domain.pdb
+C:\Users\gokha\Desktop\DataSelector\Core\YGKAPI.Domain\obj\Debug\net8.0\ref\DataSelector.Domain.dll

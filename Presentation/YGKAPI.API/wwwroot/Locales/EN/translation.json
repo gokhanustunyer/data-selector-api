@@ -1,0 +1,22 @@
+{
+  "email.mailSendException.message": "Currently, we are experiencing an issue with the mail server while sending the email.",
+  "email.targetNotFoundException.message": "Target email address not found",
+
+
+  "user.auth.email.emailConfirmException.message": "The user's email address is not verified. You can verify your account with the link sent via email.",
+  "user.auth.authenticationErrorException.message": "An unexpected error occurred during the login. Please check the password",
+  "user.auth.notFoundUserException.message": "User not found.",
+
+  "user.create.passwordMatchException.message": "The entered passwords do not match. Both passwords must be the same.",
+  "user.create.userCreateException.message": "Passwords must be at least 6 characters. Passwords must have at least one non alphanumeric character. Passwords must have at least one lowercase ('a'-'z'). Passwords must have at least one uppercase ('A'-'Z').",
+
+  "method.notImplementedException.message": "This method is still under construction.",
+
+  "ftp.fileNotFoundException.message": "File not found.",
+
+  "clientEndpoint.notFoundException.message": "Endpoint not found.",
+
+  "database.notFoundException.message": "Uzak sunucuya erişim sağlanamadı.",
+  "database.connectionStringParseException.message": "Bağlantı bilgisi parçalanamadı, doğru formatta değil.",
+  "database.emptyTableException.message": "Veri tabanındaki tablolardan birinde sütun bilgisine ulaşlılamıyor."
+}

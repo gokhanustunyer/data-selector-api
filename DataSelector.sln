@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{E3CA79D1-20EF-4E2E-9889-1952115FFBAF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{1B6767A2-70F1-4D1C-BB76-62B9552C6662}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{BCF8F3B2-1CEE-4A6C-BFC0-84ADA53F3C4E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YGKAPI.API", "Presentation\YGKAPI.API\YGKAPI.API.csproj", "{7711F6C1-C757-4A2D-9C84-9AD4B1A1A3E9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YGKAPI.Infrastructure", "Infrastructure\YGKAPI.Infrastructure\YGKAPI.Infrastructure.csproj", "{2375FB80-1638-49D9-A62E-AAC6237FFF5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YGKAPI.Persistence", "Infrastructure\YGKAPI.Persistence\YGKAPI.Persistence.csproj", "{89A8D886-581C-4E23-A4C9-AFEC1C24835B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YGKAPI.Domain", "Core\YGKAPI.Domain\YGKAPI.Domain.csproj", "{F5A78D85-0988-494A-8B75-4DB5C4B45E57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YGKAPI.Application", "Core\YGKAPI.Application\YGKAPI.Application.csproj", "{44D837A2-AC19-4BB2-8A86-3CEB5AE5F9D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7711F6C1-C757-4A2D-9C84-9AD4B1A1A3E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7711F6C1-C757-4A2D-9C84-9AD4B1A1A3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7711F6C1-C757-4A2D-9C84-9AD4B1A1A3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7711F6C1-C757-4A2D-9C84-9AD4B1A1A3E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2375FB80-1638-49D9-A62E-AAC6237FFF5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2375FB80-1638-49D9-A62E-AAC6237FFF5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2375FB80-1638-49D9-A62E-AAC6237FFF5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2375FB80-1638-49D9-A62E-AAC6237FFF5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A8D886-581C-4E23-A4C9-AFEC1C24835B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A8D886-581C-4E23-A4C9-AFEC1C24835B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A8D886-581C-4E23-A4C9-AFEC1C24835B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A8D886-581C-4E23-A4C9-AFEC1C24835B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A78D85-0988-494A-8B75-4DB5C4B45E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A78D85-0988-494A-8B75-4DB5C4B45E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A78D85-0988-494A-8B75-4DB5C4B45E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A78D85-0988-494A-8B75-4DB5C4B45E57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44D837A2-AC19-4BB2-8A86-3CEB5AE5F9D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D837A2-AC19-4BB2-8A86-3CEB5AE5F9D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D837A2-AC19-4BB2-8A86-3CEB5AE5F9D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D837A2-AC19-4BB2-8A86-3CEB5AE5F9D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7711F6C1-C757-4A2D-9C84-9AD4B1A1A3E9} = {BCF8F3B2-1CEE-4A6C-BFC0-84ADA53F3C4E}
+		{2375FB80-1638-49D9-A62E-AAC6237FFF5E} = {1B6767A2-70F1-4D1C-BB76-62B9552C6662}
+		{89A8D886-581C-4E23-A4C9-AFEC1C24835B} = {1B6767A2-70F1-4D1C-BB76-62B9552C6662}
+		{F5A78D85-0988-494A-8B75-4DB5C4B45E57} = {E3CA79D1-20EF-4E2E-9889-1952115FFBAF}
+		{44D837A2-AC19-4BB2-8A86-3CEB5AE5F9D1} = {E3CA79D1-20EF-4E2E-9889-1952115FFBAF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E23AEDB8-FC3E-419B-AC3F-A671C941C62D}
+	EndGlobalSection
+EndGlobal
